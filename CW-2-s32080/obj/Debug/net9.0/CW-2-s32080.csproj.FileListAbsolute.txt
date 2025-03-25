@@ -1,0 +1,14 @@
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/bin/Debug/net9.0/CW-2-s32080
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/bin/Debug/net9.0/CW-2-s32080.deps.json
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/bin/Debug/net9.0/CW-2-s32080.runtimeconfig.json
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/bin/Debug/net9.0/CW-2-s32080.dll
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/bin/Debug/net9.0/CW-2-s32080.pdb
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.AssemblyInfoInputs.cache
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.AssemblyInfo.cs
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.csproj.CoreCompileInputs.cache
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.dll
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/refint/CW-2-s32080.dll
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.pdb
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/CW-2-s32080.genruntimeconfig.cache
+/Users/vick/Documents/School/APBD - C# and GIT/PD2/CW-2-s32080/CW-2-s32080/obj/Debug/net9.0/ref/CW-2-s32080.dll
